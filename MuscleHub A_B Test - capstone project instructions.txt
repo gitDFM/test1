@@ -1,0 +1,82 @@
+
+CAPSTONE OPTION 1: MUSCLEHUB A/B TEST
+To stay on track, submit by May 22
+
+You've been hired to help MuscleHub, a fancy gym, run an A/B test!
+
+Currently, when a visitor to MuscleHub is considering buying a 
+	membership, he or she follows the following steps:
+- Take a fitness test with a personal trainer
+- Fill out an application for the gym
+- Send in their payment for their first month's membership
+
+Janet, the manager of MuscleHub, thinks that the fitness test 
+	intimidates some prospective members, so she has set up an A/B test.
+
+Visitors will randomly be assigned to one of two groups:
+- Group A will still be asked to take a fitness test with a 
+	personal trainer
+- Group B will skip the fitness test and proceed directly 
+	to the application
+
+Janet's hypothesis is that visitors assigned to Group B will be more 
+	likely to eventually purchase a membership to MuscleHub.
+
+You will help her analyze the data and create a presentation.
+
+
+
+TASK 1: PULLING AND ANALYZING DATA
+Download musclehub.zip
+
+Double click on it to “unzip” the folder. It should contain 7 items:
+	visits.csv, 
+	fitness_tests.csv, 
+	applications.csv, 
+	purchases.csv, 
+	codecademySQL.py, 
+	interviews.txt, 
+	musclehub.ipynb
+
+In the command line, navigate into the musclehub directory
+
+Type the following into the command line:
+	jupyter notebook
+	This should open a browser tab.
+
+Click on musclehub.ipynb in the browser tab. 
+	This will open up your Jupyter Notebook.
+Follow the steps in the Jupyter Notebook. 
+	It will help you do your analysis.
+
+
+TASK 2: QUALITATIVE DATA
+In the file interviews.txt, there are interviews with a few 
+	different gym visitors who participated in the A/B test. 
+	Read them and see if they help you better understand the 
+	results of the test.
+
+
+TASK 3: CREATE A SLIDE DECK
+Create a slide deck using Google Drive , Microsoft Powerpoint, 
+	or some other presentation software. Your presentation should 
+	include the following:
+- A title slide
+- A description of what happened in this A/B test
+- A summary of your dataset and any information you think would be helpful background
+- The results of the three hypothesis tests that you ran, including an explanation of the type of test that you used and why it was appropriate
+- A summary of the qualitative data
+- A recommendation for MuscleHub
+
+If you like, you can also record a video of yourself giving the 
+	presentation and upload it to YouTube.
+
+
+TASK 4: SUBMIT YOUR PROJECT
+1. Save your presentation as a PDF using save as.
+2. Save your iPython notebook as a “.py” file using File > Download as > Python (.py)
+3. If you created a video, create a file called video.txt with a link to the video
+4. Move your PDF, your Python file, and (optionally) your video.txt into the same folder.
+5. Compress the folder into a .zip
+6. Upload the zip to Codecademy
+

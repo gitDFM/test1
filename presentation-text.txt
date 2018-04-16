@@ -1,0 +1,64 @@
+
+
+1. description of what happened in this A/B test
+	Fitness: To Test or Not To Test?
+	In this A/B test, 
+	- Group A took a fitness test with a personal trainer, 
+		and then fills out an application
+	- Group B skips the test, and just fills out the application
+	The Question: DOES THE FITNESS TEST INTIMIDATE PROSPECTIVE MEMBERS?
+
+2. - summary of your dataset 
+	- any helpful background information 
+	> three datasets were created for this test:
+		- all visitors
+		- visitors who picked up an application
+		- visitors who took the fitness test
+		> visitors are randomly assigned to Group A or B
+	A LOOK AT THE DATA UTILIZED FOR THIS A-B TEST
+
+	
+	
+	
+3. - results of the three hypothesis tests
+	- including an explanation of the type of test that you used
+	- why it was appropriate
+
+	A. WHICH GROUP HAD MORE VISITORS APPLY FOR MEMBERSHIP?
+		13% of B vs 9% of A -- a significant difference
+		0.001 < 0.05 --> IS a significant difference --> 99.9% confident
+		Used Chi Square Test b/c we were comparing 2 categories of data 
+			from an A-B test.
+			(Those who took the fitness test v.s. those who did not.)
+	B. WHICH GROUP HAD MORE APPLICANTS BECOME MEMBERS?
+		80% of A vs 77% of B (with application) --> <56.7% confident
+		0.433 > 0.05 --> cannot be certain this is not merely chance
+			-- but this is likely a product of chance
+	C. OF ALL VISITORS, WHICH GROUP PRODUCED MORE MEMBERS?
+		10% of B vs 8% of A -- a significant difference
+		0.015 < 0.05 --> 98.5% confident in result
+		
+		
+4. SUMMARY OF QUALITATIVE DATA
+
+"I always wanted to work out... After taking the fitness test, I had to sign up and keep coming back...."
+- Cora, 23
+
+"...I wasn’t accosted by any personal trainers trying to sell me some mumbo jumbo, which I really appreciated. I still ended up not signing up ... because the weight machines had all those sweat stains on them...."
+- Jesse, 35
+
+"I took the MuscleHub fitness test because my coworker Laura recommended it. Regretted it."
+- Sonny, 26
+
+"I tried to sign up for LiftCity last year, but the fitness test was way too intense. This is my first gym membership EVER, and MuscleHub made me feel welcome."
+- Shirley, 22
+
+
+
+
+5. A RECOMMENDATION FOR MUSCLEHUB
+	Although Group A applications debatably resulted in more memberships,
+	more Group B visitors applied for, and ultimately became, members.
+	We recommend that the Fitness Test be dropped from the mandatory 
+	pre-application process. (It might be useful to offer it to visitors 
+	AFTER they apply, however.)
